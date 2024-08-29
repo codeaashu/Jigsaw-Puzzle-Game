@@ -8,7 +8,7 @@
 <hr>
   <h1 align="center">🧩 Classic Jigsaw Puzzle Game 🧩</h1>
   <img src="./LOGO.png" width="100px" />
-  <br><a href="https://jigsaw-puzzle-game.vercel.app/"><strong>✦ Play the Game ✦</strong></a>
+  <br><a href="https://jigsaw-puzzle-game.vercel.app/"><strong>✦ Play the Game ✦</strong></a><br>
   
   ` Welcome to the Classic Jigsaw Puzzle Game! This game allows you to upload any image and transform it into a jigsaw puzzle with varying difficulty levels. Whether you're looking for a quick challenge or a more intricate puzzle to solve, this game provides an enjoyable and interactive experience. `<hr></div>
 
@@ -20,13 +20,13 @@
 - **User-Friendly Interface:** Designed for a smooth and enjoyable user experience.
 - **Responsive Design:** Compatible with different devices, ensuring a great experience on both desktop and mobile.
 
-## Rules 🚨
+<h2 align="center">Rules 🚨</h4>
 
 1. **Objective:** The goal is to assemble the puzzle pieces to form the complete image.
 2. **Piece Selection:** Select the number of pieces you want for your puzzle. The more pieces, the more challenging the puzzle.
 3. **Gameplay:** Drag and drop the pieces to their correct positions. Pieces will snap into place when they are correctly aligned.
 
-## How to Play 🧩
+<h2 align="center">How to Play 🧩</h4>
 
 1. **Upload Image:** Click on the "Upload Image" button to select an image from your device.
 2. **Select Pieces:** Choose the number of pieces for your puzzle (12, 25, 50, 100, 200).
