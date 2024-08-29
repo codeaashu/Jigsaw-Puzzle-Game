@@ -8,7 +8,7 @@
 <hr>
   <h1 align="center">🧩 Classic Jigsaw Puzzle Game 🧩</h1>
   <img src="./LOGO.png" width="100px" />
-  <br><a href="https://jigsaw-puzzle-game.vercel.app/"><strong>✦ Play the Game ✦</strong></a><br>
+  <br><a href="https://jigsaw-puzzle-game.vercel.app/"><strong>✦ Play the Game ✦</strong></a><br><br>
   
   ` Welcome to the Classic Jigsaw Puzzle Game! This game allows you to upload any image and transform it into a jigsaw puzzle with varying difficulty levels. Whether you're looking for a quick challenge or a more intricate puzzle to solve, this game provides an enjoyable and interactive experience. `<hr></div>
 
